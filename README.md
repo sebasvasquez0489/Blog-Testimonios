@@ -4,7 +4,7 @@ Este proyecto es una aplicación simple de testimonios implementada con React cr
 
 ------------
 
-###Funcionalidades
+### Funcionalidades
 
 - **Visualización de Testimonios:** Muestra testimonios en la interfaz de usuario.
 ### Tecnologías  : 
